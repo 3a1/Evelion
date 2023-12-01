@@ -58,6 +58,7 @@ $ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
 - [ImGui](https://github.com/ocornut/imgui)
 - [CSS-external](https://github.com/ALittlePatate/CSS-external)
 - [BloodSharp](https://github.com/BloodSharp)
+- [Sakura](https://github.com/bit-paper/sakura)
 
 ## Support
 
