@@ -49,7 +49,7 @@ $ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
 
 ## To-do
 
-* Improve & optimise perfomance.
+* Improve & optimise overall perfomance.
 * Reduce rendering delay.
 * Add support others counter-strike versions.
 
