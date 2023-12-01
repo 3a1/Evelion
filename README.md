@@ -16,11 +16,10 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#known-bugs">Known bugs</a> •
   <a href="#to-do">To do</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
-  <a href="#license">License</a>
+  <a href="#contact">Contact</a> 
 </p>
 
 ![screenshot](https://i.imgur.com/1MTskRB.png)
@@ -41,11 +40,6 @@ It's compilable in Visual Studio 2022.
 ```bash
 $ git clone https://github.com/zebra64/evelion.git
 ```
-
-## Known bugs
-
-* 'Show Only Enemy' works only with default CT & T models.
-* Esp rendering delay.
 
 ## To-do
 
