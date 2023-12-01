@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Language-C%2B%2B-red">
 </div>
 
-<h4 align="center">Evelion is external cheat for Counter-Strike 1.6 written in <b>C++</b>.</h4>
+<h4 align="center">Evelion is external esp cheat for Counter-Strike 1.6 written in <b>C++</b>.</h4>
 
 <p align="center">
   <a href="#features">Features</a> •
