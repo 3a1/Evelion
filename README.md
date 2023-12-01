@@ -64,7 +64,11 @@ $ git clone https://github.com/zebra64/evelion.git
 I'm welcome contributions to Evelion from anyone. If you findout way to improve this cheat, here are some ways you can help:
 
 * Report Issues: If you encounter any issues or bugs while using Evelion, please report them on [GitHub Issues](https://github.com/Zebra64/Evelion/issues).
-* Write PM: If you have made changes to the code that you would like to share, you can write to me on telegram @ZebraEth.
+* Contact Directly: If you have made changes to the code that you would like to share, you can write to me pm.
+
+## Contact
+
+Telegram: @ZebraEth 
 
 ## License
 
