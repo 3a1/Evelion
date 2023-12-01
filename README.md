@@ -23,7 +23,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://i.imgur.com/1pD62e6.png)
+![screenshot](https://imgur.com/1MTskRB)
 
 ## Key Features
 
