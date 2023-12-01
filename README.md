@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Zebra64/Evelion"><img src="https://i.pinimg.com/564x/c6/bd/83/c6bd839f2eb77e4f19d2689e448f9df3.jpg" alt="Evelion" width="200"></a>
+  <a href="https://github.com/Zebra64/Evelion"><img src="https://i.pinimg.com/564x/bd/fa/13/bdfa130a3c14448987ec4d1a64ae2540.jpg" alt="Evelion" width="200"></a>
   <br>
   Sakura
   <br>
