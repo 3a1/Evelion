@@ -48,18 +48,14 @@ $ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
 
 ## To-do
 
-* Improve Lua functions.
-* Add Save/Load functions for Lua.
-* Improve UI customization.
-* Fix bugs.
+* Improve & optimise perfomance.
+* Add support others counter-strike versions.
 
 ## Credits
 
-- [BloodSharp](https://github.com/BloodSharp)
 - [Imgui](https://github.com/ocornut/imgui)
-- [Lua](https://www.lua.org/)
-- [LuaBridge](https://github.com/vinniefalco/LuaBridge)
-- [Detours](https://github.com/microsoft/Detours)
+- [CSS-external](https://github.com/ALittlePatate/CSS-external)
+- [BloodSharp](https://github.com/BloodSharp)
 
 ## Support
 
