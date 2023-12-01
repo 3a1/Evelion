@@ -72,4 +72,4 @@ We welcome contributions to Sakura from anyone, whether you're an experienced de
 
 ## License
 
-Sakura is licensed under the MIT License. See [LICENSE]([https://github.com/Zebra64/Evelion/blob/main/LICENSE] for more information.
+Sakura is licensed under the MIT License. See [LICENSE]([https://github.com/Zebra64/Evelion/blob/main/LICENSE) for more information.
