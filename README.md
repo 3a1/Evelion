@@ -12,6 +12,7 @@
 </div>
 
 <h4 align="center">Evelion is external esp cheat for Counter-Strike 1.6 written in <b>C++</b>.</h4>
+<h4 align="center">(steam)</h4>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -33,7 +34,7 @@
 
 ## How To Use
 
-To run this cheat, you'll need download source code and install [Visual Studio](https://visualstudio.microsoft.com/) on your computer and basic knowledge how to compile it. Also if you want to bypass gameguard you'll need use VMprotect or other protector to change file signature.
+To run this cheat, you'll need download source code and install [Visual Studio](https://visualstudio.microsoft.com/) on your computer and basic knowledge how to compile it. If you want to bypass gameguard you'll need use VMprotect or other protector to change file signature. 
 
 It's compilable in Visual Studio 2022.
 
