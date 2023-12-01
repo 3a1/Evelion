@@ -34,7 +34,7 @@
 
 ## How To Use
 
-To run this cheat, you'll need [Git](https://git-scm.com) or downloaded source code and installed [Visual Studio](https://visualstudio.microsoft.com/) on your computer and basic knowledge how to compile it. Also for the loader you'll need DirectX SDK from [here](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
+To run this cheat, you'll need download source code and install [Visual Studio](https://visualstudio.microsoft.com/) on your computer and basic knowledge how to compile it. Also if you want to bypass gameguard you'll need use VMprotect or other protector to change file signature.
 
 It's compilable in Visual Studio 2022.
 
