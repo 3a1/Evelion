@@ -14,7 +14,7 @@
 <h4 align="center">Evelion is external cheat for Counter-Strike 1.6 written in <b>C++</b>.</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#known-bugs">Known bugs</a> •
   <a href="#to-do">To do</a> •
@@ -25,12 +25,12 @@
 
 ![screenshot](https://i.imgur.com/1MTskRB.png)
 
-## Key Features
+## Features
 
-* Modern and User-Friendly Interface: Sakura features a sleek and intuitive menu interface that is easy to navigate. It provides a seamless user experience and makes it easy to access all the features.
-* Customizable Colors: With Sakura, you can customize the menu colors to your liking. This means you can personalize the interface and make it match your own preferences.
-* Powerful LUA Scripting: Sakura is built on top of the powerful LUA scripting language, which allows for complex and dynamic interactions. This means you can create custom scripts that automate tasks, enhance functionality, and improve performance. If you need help with scripting, check out our [documentation](https://sakura-9.gitbook.io/sakura/).
-* Bypasses: Sakura includes several bypasses that allow you to bypass various anti-cheat systems. These bypasses are constantly updated to ensure that they work with the latest versions of anti-cheat software.
+* Simply and Clear Interface: Evelion has a clear and simple interface in which is easy to access all the features. Evelion provides a esp customizations thats make easy to choose what you want to use at the moment.
+* Stream Proof: Evelion is built as other window with ImGui to be on top of the counter-strike process, which allows to record videos or streaming with obs and cheat does not show up. This means you can create content and always be on top of scoreboard!
+* Bypass: Evelion bypass various anti-cheat systems. Soon as it external, it bypass all client side anti-cheats. Includes Wargods, Demo Checkers, SMAC and many others.
+
 
 ## How To Use
 
@@ -51,6 +51,7 @@ $ git clone https://github.com/zebra64/evelion.git
 
 * Improve & optimise overall perfomance.
 * Reduce rendering delay.
+* Colors customization.
 * Add support others counter-strike versions.
 
 ## Credits
