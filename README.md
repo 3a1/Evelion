@@ -44,9 +44,7 @@ $ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
 
 ## Known bugs
 
-* Fov for Perfect Silent doesn't work.
-* CreateBeamPoint is not working from Lua script.
-* First snapshot is double taken while using anti screenshot function.
+* 'Show Only Enemy' works only with default CT & T models.
 
 ## To-do
 
