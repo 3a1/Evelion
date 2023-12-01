@@ -39,7 +39,7 @@ To run this cheat, you'll need download source code and install [Visual Studio](
 It's compilable in Visual Studio 2022.
 
 ```bash
-$ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
+$ git clone https://github.com/zebra64/evelion.git
 ```
 
 ## Known bugs
