@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Zebra64/Evelion"><img src="https://i.imgur.com/7jmppsc.png" alt="Evelion" width="200"></a>
+  <a href="https://github.com/Zebra64/Evelion"><img src="https://i.imgur.com/kC8emJ4.png" alt="Evelion" width="200"></a>
   <br>
   Evelion
   <br>
