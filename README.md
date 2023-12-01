@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/rbl-dot/sakura"><img src="https://i.imgur.com/WFsf63R.png" alt="Sakura" width="200"></a>
+  <a href="https://github.com/rbl-dot/sakura"><img src="https://i.imgur.com/WFsf63R.png" alt="Evelion" width="200"></a>
   <br>
   Sakura
   <br>
@@ -45,10 +45,12 @@ $ git clone --recurse-submodules https://github.com/rbl-dot/sakura.git
 ## Known bugs
 
 * 'Show Only Enemy' works only with default CT & T models.
+* Esp rendering delay.
 
 ## To-do
 
 * Improve & optimise perfomance.
+* Reduce rendering delay.
 * Add support others counter-strike versions.
 
 ## Credits
