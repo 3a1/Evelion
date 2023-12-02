@@ -70,4 +70,4 @@ Telegram: @ZebraEth
 
 ## License
 
-Sakura is licensed under the MIT License. See [LICENSE](https://github.com/Zebra64/Evelion/blob/main/LICENSE) for more information.
+Evelion is licensed under the MIT License. See [LICENSE](https://github.com/Zebra64/Evelion/blob/main/LICENSE) for more information.
