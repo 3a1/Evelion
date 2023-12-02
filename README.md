@@ -50,6 +50,7 @@ $ git clone https://github.com/zebra64/evelion.git
 * Reduce rendering delay.
 * Colors customization.
 * Add support others counter-strike versions.
+* Separate reading buffers to multiply threads
 
 ## Credits
 
