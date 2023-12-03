@@ -57,6 +57,7 @@ Press the `INSERT` key to open the menu.
 - [ImGui](https://github.com/ocornut/imgui)
 - [CSS-external](https://github.com/ALittlePatate/CSS-external)
 - [Sakura](https://github.com/bit-paper/sakura)
+- [Crianosfera](https://github.com/BloodSharp/Crianosfera-5-External)
 
 ## Support
 
