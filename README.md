@@ -42,6 +42,9 @@ To run this cheat, you'll need download source code and compile it using [Visual
 * Open Evelion.sln in Visual Studio 2022, set build configuration to Release | x86.
 * Press Build solution and you should receive Evelion.exe file in the Release directory.
 
+Press the `INSERT` key to toggle the menu.     
+Press the `END` key to end the cheat.
+
 ## To-do
 
 * Improve & optimise overall perfomance.
