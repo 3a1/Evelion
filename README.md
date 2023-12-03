@@ -29,7 +29,7 @@
 
 * Simply and Clear Interface: Evelion has a clear and simple interface in which is easy to access all the features. Evelion provides a esp customizations thats make easy to choose what you want to use at the moment.
 * Stream Proof: Evelion is built as other window with ImGui to be on top of the counter-strike process, which allows to record videos or streaming with obs and cheat does not show up. This means you can create content and always be on top of scoreboard!
-* Bypass: Evelion bypass various anti-cheat systems. Soon as it external, it bypass all client side anti-cheats. Includes Wargods, Demo Checkers, SMAC and many others.
+* Bypass: Evelion bypass various anti-cheat systems. Soon as it external, it bypass all server side anti-cheats. Includes Wargods, Demo Checkers, SMAC and many others.
 
 
 ## How To Use
