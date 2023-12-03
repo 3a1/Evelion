@@ -36,13 +36,11 @@
 
 This cheat is made for 8684 steam build.
 Works only in windowed mode.
-To run this cheat, you'll need download source code and install [Visual Studio](https://visualstudio.microsoft.com/) on your computer and basic knowledge how to compile it. If you want to bypass Wargods you'll need use VMprotect or other protector to change file signature. 
 
-It's compilable in Visual Studio 2022.
+To run this cheat, you'll need download source code and compile it using [Visual Studio](https://visualstudio.microsoft.com/). If you want to bypass Wargods you'll need use VMprotect or other protector to change file signature. 
 
-```bash
-$ git clone https://github.com/zebra64/evelion.git
-```
+* Open Evelion.sln in Visual Studio 2022, set build configuration to Release | x86.
+* Press Build solution and you should receive Evelion.exe file in the Release directory.
 
 ## To-do
 
