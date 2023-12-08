@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Zebra64/Evelion"><img src="https://i.imgur.com/kC8emJ4.png" alt="Evelion" width="200"></a>
+  <a href="https://github.com/3a1/Evelion"><img src="https://i.imgur.com/kC8emJ4.png" alt="Evelion" width="200"></a>
   <br>
   Evelion
   <br>
@@ -63,7 +63,7 @@ Press the `INSERT` key to open the menu.
 
 I'm welcome contributions to Evelion from anyone. If you findout way to improve this cheat, here are some ways you can help:
 
-* Report Issues: If you encounter any issues or bugs while using Evelion, please report them on [GitHub Issues](https://github.com/Zebra64/Evelion/issues).
+* Report Issues: If you encounter any issues or bugs while using Evelion, please report them on [GitHub Issues](https://github.com/3a1/Evelion/issues).
 * Contact Directly: If you have made changes to the code that you would like to share, you can write to me pm.
 
 ## Contact
@@ -72,4 +72,4 @@ Telegram: @ZebraEth
 
 ## License
 
-Evelion is licensed under the MIT License. See [LICENSE](https://github.com/Zebra64/Evelion/blob/main/LICENSE) for more information.
+Evelion is licensed under the MIT License. See [LICENSE](https://github.com/3a1/Evelion/blob/main/LICENSE) for more information.
