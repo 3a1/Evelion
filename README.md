@@ -18,8 +18,7 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#to-do">To do</a> •
   <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#contact">Contact</a> 
+  <a href="#support">Support</a>
 </p>
 
 ![screenshot](https://i.imgur.com/1MTskRB.png)
@@ -65,10 +64,6 @@ I'm welcome contributions to Evelion from anyone. If you findout way to improve 
 
 * Report Issues: If you encounter any issues or bugs while using Evelion, please report them on [GitHub Issues](https://github.com/3a1/Evelion/issues).
 * Contact Directly: If you have made changes to the code that you would like to share, you can write to me pm.
-
-## Contact
-
-Telegram: @ZebraEth 
 
 ## License
 
