@@ -46,10 +46,10 @@ Press the `INSERT` key to open the menu.
 
 ## To-do
 
-* I̶m̶p̶r̶o̶v̶e̶ ̶&̶ ̶o̶p̶t̶i̶m̶i̶s̶e̶ ̶o̶v̶e̶r̶a̶l̶l̶ ̶p̶e̶r̶f̶o̶m̶a̶n̶c̶e̶.
-* ̶R̶e̶d̶u̶c̶e̶ ̶R̶e̶n̶d̶e̶r̶i̶n̶g̶ ̶D̶e̶l̶a̶y̶.
-* ̶C̶o̶l̶o̶r̶s̶ ̶c̶u̶s̶t̶o̶m̶i̶z̶a̶t̶i̶o̶n̶.
-* ̶S̶e̶p̶a̶r̶a̶t̶e̶ ̶r̶e̶a̶d̶i̶n̶g̶ ̶b̶u̶f̶f̶e̶r̶s̶ ̶t̶o̶ ̶m̶u̶l̶t̶i̶p̶l̶y̶ ̶t̶h̶r̶e̶a̶d̶s
+* ~~Improve * optimise overall perfomance~~
+* ̶~~Reduce Rendering Delay~~
+* ̶~~Colors customization~~
+* ~~Separate rendering buffers to multiply threads~~
 * Add support others counter-strike versions.
 
 ## Credits
