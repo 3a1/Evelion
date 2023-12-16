@@ -26,7 +26,7 @@
 
 ## Features
 
-* Simply and Clear Interface: Evelion has a clear and simple interface in which is easy to access all the features. Evelion provides a esp customizations thats make easy to choose what you want to use at the moment.
+* Simply and Clear Interface: Evelion has a clear and simple interface in which is easy to access all the features. Evelion provides a esp customizations thats make easy to cusomize esp colors on your own.
 * Stream Proof: Evelion is built as other window with ImGui to be on top of the counter-strike process, which allows to record videos or streaming with obs and cheat does not show up. This means you can create content and always be on top of scoreboard!
 * Bypass: Evelion bypass various anti-cheat systems. Soon as it external, it bypass all server side anti-cheats. Includes Wargods, Demo Checkers, SMAC and many others.
 
@@ -36,20 +36,21 @@
 This cheat is made for 8684 steam build.
 Works only in windowed mode.
 
-To run this cheat, you'll need download source code and compile it using [Visual Studio](https://visualstudio.microsoft.com/). If you want to bypass Wargods you'll need use VMprotect or other protector to change file signature. 
+To run this cheat, you'll need download last compiled release from [Releases](https://github.com/3a1/Evelion/releases/) or manually compile it using [Visual Studio](https://visualstudio.microsoft.com/). If you want to bypass Wargods you'll need use VMprotect or other protector to change file signature. 
 
-* Open Evelion.sln in Visual Studio 2022, set build configuration to Release | x86.
-* Press Build solution and you should receive Evelion.exe file in the Release directory.
+* Open Counter-Strike
+* Run Evelion.exe
+* Enjoy
 
 Press the `INSERT` key to open the menu.     
 
 ## To-do
 
-* Improve & optimise overall perfomance.
-* Reduce rendering delay.
-* Colors customization.
+* I̶m̶p̶r̶o̶v̶e̶ ̶&̶ ̶o̶p̶t̶i̶m̶i̶s̶e̶ ̶o̶v̶e̶r̶a̶l̶l̶ ̶p̶e̶r̶f̶o̶m̶a̶n̶c̶e̶.
+* ̶R̶e̶d̶u̶c̶e̶ ̶R̶e̶n̶d̶e̶r̶i̶n̶g̶ ̶D̶e̶l̶a̶y̶.
+* ̶C̶o̶l̶o̶r̶s̶ ̶c̶u̶s̶t̶o̶m̶i̶z̶a̶t̶i̶o̶n̶.
+* ̶S̶e̶p̶a̶r̶a̶t̶e̶ ̶r̶e̶a̶d̶i̶n̶g̶ ̶b̶u̶f̶f̶e̶r̶s̶ ̶t̶o̶ ̶m̶u̶l̶t̶i̶p̶l̶y̶ ̶t̶h̶r̶e̶a̶d̶s
 * Add support others counter-strike versions.
-* Separate reading buffers to multiply threads
 
 ## Credits
 
