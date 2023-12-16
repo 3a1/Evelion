@@ -47,8 +47,8 @@ Press the `INSERT` key to open the menu.
 ## To-do
 
 * ~~Improve * optimise overall perfomance~~
-* ̶~~Reduce Rendering Delay~~
-* ̶~~Colors customization~~
+* ~~Reduce Rendering Delay~~
+* ~~Colors Customization~~
 * ~~Separate rendering buffers to multiply threads~~
 * Add support others counter-strike versions.
 
