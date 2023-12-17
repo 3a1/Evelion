@@ -21,10 +21,10 @@
   <a href="#support">Support</a>
 </p>
 
-<p align="center">
-![screenshot](https://i.imgur.com/38xgmzs.png)
-![screenshot](https://i.imgur.com/ymtV3ND.png)
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/38xgmzs.png">
+  <img src="https://i.imgur.com/ymtV3ND.png">
+</div>
 
 ## Features
 
