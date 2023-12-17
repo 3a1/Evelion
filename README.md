@@ -45,6 +45,7 @@ To run this cheat, you'll need download last compiled release from [Releases](ht
 * Enjoy
 
 Press the `INSERT` key to open the menu.     
+Press the `DELETE` key to close the cheat.  
 
 ## To-do
 
