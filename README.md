@@ -21,8 +21,10 @@
   <a href="#support">Support</a>
 </p>
 
+<p align="center">
 ![screenshot](https://i.imgur.com/38xgmzs.png)
 ![screenshot](https://i.imgur.com/ymtV3ND.png)
+</p>
 
 ## Features
 
