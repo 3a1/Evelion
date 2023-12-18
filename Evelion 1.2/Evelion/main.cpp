@@ -282,7 +282,7 @@ void DrawMenu() {
 		Unhook = true;
 	}
 
-	ImGui::Text("Version 1.0 by Zebra");
+	ImGui::Text("Version 1.2 by Zebra");
 
 	ImGui::End();
 }
