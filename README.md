@@ -35,7 +35,7 @@
 
 ## How To Use
 
-This cheat is made for 8684 steam build.
+This cheat is made for 8684 steam build[steam_legacy version].
 
 Works only in windowed mode.
 
