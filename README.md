@@ -40,6 +40,7 @@ This cheat is made for 8684 steam build[steam_legacy version].
 Works only in windowed mode.
 
 To run this cheat, you'll need download source-code and manually compile it using [Visual Studio](https://visualstudio.microsoft.com/). 
+
 Don't forget to change from Debug to Release and from x64 to x86, after that you will be able to compile it.
 If you want to bypass Wargods you'll need use VMprotect or other protector to change file signature. 
 
