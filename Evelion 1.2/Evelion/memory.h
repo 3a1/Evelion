@@ -45,25 +45,27 @@ public:
 	// Returns the base address of a module by name
 	std::uintptr_t GetModuleAddress(std::string_view moduleName) const noexcept
 	{
-		::MODULEENTRY32 entry = { };
-		entry.dwSize = sizeof(::MODULEENTRY32);
+		DWORD_PTR dwModuleBaseAddress = 0;
+		DWORD_PTR result = 0;
 
-		const HANDLE snapShot = ::CreateToolhelp32Snapshot(TH32CS_SNAPMODULE, processId);
-
-		std::uintptr_t result = 0;
-
-		while (::Module32Next(snapShot, &entry))
+		HANDLE hSnapshot = CreateToolhelp32Snapshot(TH32CS_SNAPMODULE | TH32CS_SNAPMODULE32, processId);
+		if (hSnapshot != INVALID_HANDLE_VALUE)
 		{
-			if (!moduleName.compare(entry.szModule))
+			MODULEENTRY32 ModuleEntry32;
+			ModuleEntry32.dwSize = sizeof(MODULEENTRY32);
+			if (Module32First(hSnapshot, &ModuleEntry32))
 			{
-				result = reinterpret_cast<std::uintptr_t>(entry.modBaseAddr);
-				break;
+				do {
+					if (_stricmp(ModuleEntry32.szModule, moduleName.data()) == 0)
+					{
+						dwModuleBaseAddress = reinterpret_cast<DWORD_PTR>(ModuleEntry32.modBaseAddr);
+						result = dwModuleBaseAddress;
+						break;
+					}
+				} while (Module32Next(hSnapshot, &ModuleEntry32));
 			}
+			CloseHandle(hSnapshot);
 		}
-
-		if (snapShot)
-			::CloseHandle(snapShot);
-
 		return result;
 	}
 
