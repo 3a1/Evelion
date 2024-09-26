@@ -155,7 +155,7 @@ void DeadCheck() {
 	while (1) {
 		while (esp) {
 
-			for (int i = 1; i < 64; i++)
+			for (int i = 0; i < 64; i++)
 			{
 				playerX = memory.ReadModuleBuffer<float>(entityListBuffer, i * 0x0250 + 0x0184);
 
