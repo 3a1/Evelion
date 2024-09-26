@@ -79,7 +79,7 @@ void OffsetsUpdate() {
 	while (1) {
 		while (esp) {
 
-			memory.ReadHugeMemory(hw + 0x120461C - 0x0250, entityListBuffer, entityListSize);
+			memory.ReadHugeMemory(hw + 0x12043CC, entityListBuffer, entityListSize);
 			for (int i = 1; i < 64; i++)
 			{
 
