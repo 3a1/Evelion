@@ -80,7 +80,7 @@ void OffsetsUpdate() {
 		while (esp) {
 
 			memory.ReadHugeMemory(hw + 0x12043CC, entityListBuffer, entityListSize);
-			for (int i = 1; i < 64; i++)
+			for (int i = 0; i < 64; i++)
 			{
 
 				float playerX = memory.ReadModuleBuffer<float>(entityListBuffer, i * 0x0250 + 0x0184);
@@ -211,7 +211,7 @@ void Draw() {
 	if (esp) {
 
 		if (enemy_box || enemy_name) {
-			for (int i = 1; i < 64; i++)
+			for (int i = 0; i < 64; i++)
 			{
 				int x = players[i].screenPosition[0];
 				int y = players[i].screenPosition[1];
